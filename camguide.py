@@ -9,7 +9,7 @@ tourists visiting Cambridge.
 first_name = input("What's your first name? ").capitalize()
 
 print(first_name,"welcome to Cambridge!")
-print("My name is CamGuy, your local tour guide in Cambridge. \n")
+print("My name is Camguide, your local tour guide in Cambridge. \n")
 print("I can make some recommendations for a one-day tour based on your budget. \n")# make recommendations as a guide
 print("Enter 'q' to quit the enquiry\n")
 
